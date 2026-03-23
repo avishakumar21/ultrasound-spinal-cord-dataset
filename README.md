@@ -6,7 +6,7 @@ This is a dataset of 10,223 B-mode ultrasound images of porcine spinal cord befo
 
 ### Injury Localization ###
 
-The injury localization dataset can be accessed at this google drive link: https://drive.google.com/file/d/1r-r0dcXePMyXiXuVEUhtUgARw-Ktp_O1/view?usp=sharing
+The injury localization dataset can be accessed at this google drive link: https://drive.google.com/file/d/1C3NgTmC8gBNG8mL632Oz2i1j156zhSXk/view?usp=drive_link
 
 The images and their corresponding bounding box labels (saved as xml files) have been split into train, validation, and test folders. 
 The injury localization dataset consists of 2,245 healthy and injured porcine spinal cord images (N=23). Images are in Portable Network Graphics (PNG) format and are cropped to size 690 x 275 pixels, which shows approximately 25 mm x 8 mm of the sagittal slice of the spinal cord. 
