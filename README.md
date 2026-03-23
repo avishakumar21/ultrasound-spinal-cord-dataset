@@ -25,7 +25,7 @@ Total post-injury pigs: 23
 
 ### Semantic Segmentation ###
 
-The segmentation dataset can be accessed at this google drive link: https://drive.google.com/file/d/1JUKakYg10ZsHVDORsv9XvDkx86WVKaFO/view?usp=sharing
+The segmentation dataset can be accessed at this google drive link: https://drive.google.com/file/d/1r3UNudTpPJyO1kJdVfQqPsBDduAWp2iS/view?usp=sharing
 
 The semantic segmentation dataset consists of 10,223 images divided into 4,467 healthy spinal cord images (N=20) and 5,756 images of injured spinal cord images (N=25). Again, the files are in a PNG format, scaled to the depth of scan field on the ultrasound image, and cropped to size 690 x 275. 
 
